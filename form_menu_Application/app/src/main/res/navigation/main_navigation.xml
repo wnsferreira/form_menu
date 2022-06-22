@@ -19,7 +19,7 @@
         android:id="@+id/professionalExperienceFragment"
         android:name="com.example.at_interfaces_application.ProfessionalExperienceFragment"
         android:label="fragment_professional_experience"
-        tools:layout="@layout/fragment_experience_professional" />
+        tools:layout="@layout/fragment_professional_experience" />
     <fragment
         android:id="@+id/publicationsFragment"
         android:name="com.example.at_interfaces_application.PublicationsFragment"
@@ -30,4 +30,9 @@
         android:name="com.example.at_interfaces_application.FormFragment"
         android:label="fragment_form"
         tools:layout="@layout/fragment_form" />
+    <fragment
+        android:id="@+id/formationFragment"
+        android:name="com.example.at_interfaces_application.FormationFragment"
+        android:label="fragment_formation"
+        tools:layout="@layout/fragment_formation" />
 </navigation>

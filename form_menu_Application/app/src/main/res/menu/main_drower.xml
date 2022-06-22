@@ -6,7 +6,7 @@
         android:icon="@drawable/avatar"
         android:title="Informações Pessoais" />
     <item
-        android:id="@+id/personalInformationFragment"
+        android:id="@+id/formationFragment"
         android:icon="@android:drawable/ic_menu_edit"
         android:title="Formação" />
     <item

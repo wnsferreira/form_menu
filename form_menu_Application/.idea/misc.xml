@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/activity_main.xml" value="0.4083333333333333" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_curses.xml" value="0.22" />
         <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_cursos.xml" value="0.19010416666666666" />
         <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_ex_profissional.xml" value="0.20416666666666666" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_form.xml" value="0.25" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_formation.xml" value="0.33" />
         <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_formulario.xml" value="0.20416666666666666" />
         <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_perfil.xml" value="0.19010416666666666" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_professional_experience.xml" value="0.1" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
         <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_publicacoes.xml" value="0.20416666666666666" />
-        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/menu/main_drower.xml" value="0.1" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/layout/fragment_publications.xml" value="0.25" />
+        <entry key="..\:/Workspace developer/Kotlin/At Interfaces/form_menu_Application/app/src/main/res/menu/main_drower.xml" value="0.25" />
       </map>
     </option>
   </component>
