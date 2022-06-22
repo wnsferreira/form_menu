@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/formFragment">
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.at_interfaces_application.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/cursesFragment"
+        android:name="com.example.at_interfaces_application.CursesFragment"
+        android:label="fragment_curses"
+        tools:layout="@layout/fragment_curses" />
+    <fragment
+        android:id="@+id/professionalExperienceFragment"
+        android:name="com.example.at_interfaces_application.ProfessionalExperienceFragment"
+        android:label="fragment_professional_experience"
+        tools:layout="@layout/fragment_experience_professional" />
+    <fragment
+        android:id="@+id/publicationsFragment"
+        android:name="com.example.at_interfaces_application.PublicationsFragment"
+        android:label="fragment_publications"
+        tools:layout="@layout/fragment_publications" />
+    <fragment
+        android:id="@+id/formFragment"
+        android:name="com.example.at_interfaces_application.FormFragment"
+        android:label="fragment_form"
+        tools:layout="@layout/fragment_form" />
+</navigation>
